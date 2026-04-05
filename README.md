@@ -35,7 +35,7 @@ Junior DevOps & Cloud Engineer based in Egypt, passionate about building reliabl
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ###  [CloudStack — Microservices Web Application](https://github.com/rawdaessamrou/CloudStack-Microservices-Web-Application)
 
