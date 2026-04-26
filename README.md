@@ -10,16 +10,13 @@
 
 </div>
 
----
-
 ##  About Me
 
 Junior DevOps & Cloud Engineer based in Egypt, passionate about building reliable infrastructure and automating everything. I work with **AWS**, **Docker & Kubernetes**, **Terraform & Ansible**, and **CI/CD pipelines** using GitHub Actions and Jenkins. I'm actively looking for junior DevOps / Cloud opportunities.
 
-
 ---
 
-##  Tech Stack
+## Tech Stack
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -37,6 +34,22 @@ Junior DevOps & Cloud Engineer based in Egypt, passionate about building reliabl
 
 ## Featured Projects
 
+### [Solar System — DevOps CI/CD Project](https://github.com/rawdaessamrou/solar-system)
+
+A Node.js app fully deployed to AWS EKS using Terraform for infrastructure provisioning, Kubernetes for orchestration, Docker for containerization, and GitHub Actions for CI/CD automation. Every push to main triggers a full build and deploy pipeline.
+
+`AWS EKS` `Terraform` `Kubernetes` `Docker` `GitHub Actions` `Node.js`
+
+---
+
+### [PayPal Phishing Simulation — Kubernetes Project](https://github.com/rawdaessamrou/Paypal-Phishing-Simulation-Kubernetes-Project)
+
+A full-stack phishing-awareness simulation deployed on Kubernetes (Minikube), featuring a PayPal-styled Nginx frontend, a Python Flask backend, and a MySQL database. Demonstrates real-world Kubernetes concepts including RBAC, PersistentVolumes, Ingress, ConfigMaps, TLS, and multi-component service networking — all wired together end-to-end.
+
+`Kubernetes` `Docker` `Python Flask` `MySQL` `Nginx` `RBAC` `Minikube`
+
+---
+
 ###  [CloudStack — Microservices Web Application](https://github.com/rawdaessamrou/CloudStack-Microservices-Web-Application)
 
 A full-stack microservices app (Python backend + JavaScript frontend) containerized with Docker, orchestrated via Docker Compose, provisioned with Ansible, and deployed through a GitLab CI/CD pipeline.
@@ -45,17 +58,9 @@ A full-stack microservices app (Python backend + JavaScript frontend) containeri
 
 ---
 
-###  [Solar System — Kubernetes Deployment on AWS EKS](https://github.com/rawdaessamrou/solar-system)
-
-A Node.js app fully deployed to AWS EKS using Terraform for infrastructure provisioning, Kubernetes for orchestration, Docker for containerization, and GitHub Actions for CI/CD automation. Every push to main triggers a full build and deploy pipeline.
-
-`AWS EKS` `Terraform` `Kubernetes` `Docker` `GitHub Actions` `Node.js`
-
----
 ## GitHub Stats
 
 <div align="center">
-
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rawdaessamrou&theme=tokyonight&hide_border=true)
 
@@ -63,7 +68,7 @@ A Node.js app fully deployed to AWS EKS using Terraform for infrastructure provi
 
 ---
 
-## Let's Connect
+##  Let's Connect
 
 I'm actively looking for **junior DevOps / Cloud Engineering** opportunities. If you're hiring or want to collaborate, feel free to reach out!
 
